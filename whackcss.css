@@ -1,5 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Karla';
 
+
+
 .column-left{ float: left; width: 33%; }
 .column-right{ float: right; width: 33%; }
 .column-center{ display: inline-block; width: 33%; }
@@ -33,6 +35,9 @@ h0 {
     font-size: 40pt;
     font-family: 'Karla', sans-serif;
   }
+
+
+
 
 /* unvisited linked*/
 a:link {
