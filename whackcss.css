@@ -4,6 +4,9 @@
 .column-right{ float: right; width: 33%; }
 .column-center{ display: inline-block; width: 33%; }
 
+.column-halfl{ float: left; width: 50%; }
+.column-halfr{ float: right; width: 50%; }
+
 .menu {text-align:justify; margin-top:20pt;}
 .menu:after { content:' '; display:inline-block; width: 100%; height: 0 }
 .menu > span {display:inline-block}
